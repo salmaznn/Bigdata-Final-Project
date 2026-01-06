@@ -8,19 +8,17 @@ Repository ini berisi implementasi **pipeline Big Data end-to-end** yang mencaku
 - Mengimplementasikan pipeline **ETL (Extract, Transform, Load)** menggunakan Python
 - Mengimplementasikan pendekatan **ELT (Extract, Load, Transform)** pada data warehouse
 - Merancang dan membangun **data warehouse berbasis SQLite**
-- Mengintegrasikan data transaksi dan data cuaca dalam satu skema terstruktur
+- Mengintegrasikan data cuaca dari API Meteostat
 - Menghasilkan insight analitik melalui visualisasi data
-- Menyediakan media eksplorasi data berbasis waktu dan kondisi
 
 ---
 
 ## 🧰 Tools & Teknologi
-- **Python** (implementasi ETL)
+- **Python** (implementasi ETL&ELT)
 - **SQLite** sebagai data warehouse
 - **ODBC SQLite Driver** (open-source)
 - **Power BI** sebagai alat visualisasi
-- Konsep **ETL & ELT**
-- Dataset transaksi TransJakarta dan data cuaca
+- Dataset transaksi Transjakarta dan data cuaca (API)
 
 ---
 
