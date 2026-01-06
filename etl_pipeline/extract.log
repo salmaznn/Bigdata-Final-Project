@@ -1,0 +1,12 @@
+{"source": "TransJakarta", "rows": 189500, "cols": 22, "size": 44825012, "time": 6.92, "start": "2025-12-30T09:44:09.280879"}
+{"source": "Weather", "rows": 744, "cols": 12, "size": 46882, "time": 0.03, "start": "2025-12-30T09:44:16.259536"}
+{"source": "TransJakarta", "rows": 189500, "cols": 22, "size": 44825012, "time": 5.83, "start": "2025-12-30T09:52:48.097909"}
+{"source": "Meteostat (API)", "lokasi": "Jakarta", "periode": "2023-04-01 s.d. 2023-05-01", "granularitas": "Hourly", "rows": 744, "cols": 12, "size": 46882, "time": 0.03, "start": "2025-12-30T09:52:53.978092"}
+{"source": "TransJakarta", "rows": 189500, "cols": 22, "size": 44825012, "time": 7.32, "start": "2025-12-30T15:15:52.278085"}
+{"source": "Meteostat (API)", "lokasi": "Jakarta", "periode": "2023-04-01 s.d. 2023-05-01", "granularitas": "Hourly", "rows": 744, "cols": 12, "size": 46882, "time": 0.21, "start": "2025-12-30T15:15:59.837619"}
+{"source": "TransJakarta", "rows": 189500, "cols": 22, "size": 44825012, "time": 7.47, "start": "2026-01-06T16:09:43.502920"}
+{"source": "Meteostat (API)", "lokasi": "Jakarta", "periode": "2023-04-01 s.d. 2023-05-01", "granularitas": "Hourly", "rows": 744, "cols": 12, "size": 46882, "time": 0.47, "start": "2026-01-06T16:09:51.191970"}
+{"source": "TransJakarta", "rows": 189500, "cols": 22, "size": 44825012, "time": 5.67, "start": "2026-01-06T16:10:22.692353"}
+{"source": "Meteostat (API)", "lokasi": "Jakarta", "periode": "2023-04-01 s.d. 2023-05-01", "granularitas": "Hourly", "rows": 744, "cols": 12, "size": 46882, "time": 0.02, "start": "2026-01-06T16:10:28.401331"}
+{"source": "TransJakarta", "rows": 189500, "cols": 22, "size": 44825012, "time": 5.88, "start": "2026-01-06T16:13:55.646415"}
+{"source": "Meteostat (API)", "lokasi": "Jakarta", "periode": "2023-04-01 s.d. 2023-05-01", "granularitas": "Hourly", "rows": 744, "cols": 12, "size": 46882, "time": 0.02, "start": "2026-01-06T16:14:01.587650"}
